@@ -1,0 +1,16 @@
+linkedin_url,input_name,siren,website,linkedin_id_found,success
+https://www.linkedin.com/company/areva,Orano,305207169,http://www.orano.group,areva,true
+https://www.linkedin.com/company/siat-braun,Groupe SIAT,675880041,http://www.groupesiat.fr,groupe-siat,false
+https://www.linkedin.com/company/lacoste,Lacoste,307258301,https://corporate.lacoste.com/,lacoste,true
+https://www.linkedin.com/company/vinci-energies,Vinci Energie,391635844,http://www.vinci-energies.com,vinci-energies,true
+https://www.linkedin.com/company/chantiers-atlantique,Chantiers de l'Atlantique,439067612,http://chantiers-atlantique.com,chantiers-atlantique,true
+https://www.linkedin.com/company/naval-energies,Naval Energies,790256671,https://www.naval-energies.com/fr/,naval-energies,true
+https://www.linkedin.com/company/socomec,Socomec,548500149,http://www.socomec.com,socomec,true
+https://www.linkedin.com/company/airliquide,Air Liquide,314119504,http://www.airliquide.com,airliquide,true
+https://www.linkedin.com/company/bouygues-construction,Bouygues,433900834,http://www.bouygues-construction.com/,bouygues-construction,true
+https://www.linkedin.com/company/runeo,Runeo,817502453,https://www.runeo.re/,runeo,true
+https://www.linkedin.com/company/veolia-environnement,Veolia,403210032,http://www.veolia.com/en/,veolia-environnement,true
+https://www.linkedin.com/company/sanofi,Sanofi,395030844,http://www.sanofi.com,sanofi,true
+https://www.linkedin.com/company/manitougroup,Manitou Group,857802508,http://www.manitou-group.com,manitoufr,false
+https://www.linkedin.com/company/suez,Suez,775690035,http://www.suez.com,suez,true
+https://www.linkedin.com/company/association-amorce,Amorce,751372608,http://www.amorce.asso.fr,,false

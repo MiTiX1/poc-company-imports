@@ -1,0 +1,11 @@
+linkedin_url,input_name,siren,website,linkedin_id_found,success
+https://www.linkedin.com/company/valeo,Valeo,552030967,http://www.valeo.com,valeo,true
+https://www.linkedin.com/company/sillinger,Sillinger,431546233,http://www.sillinger.com,sillinger,true
+https://www.linkedin.com/company/airbusgroup,Airbus,383474814,http://www.airbus.com,airbusgroup,true
+https://www.linkedin.com/company/terrena,Terrena,429707292,http://www.terrena.fr,terrena,true
+https://www.linkedin.com/company/renaultgroup,Renault,780129987,https://www.renaultgroup.com/en/,renault-digital,false
+https://www.linkedin.com/company/legrand,Legrand,758501001,https://www.legrandgroup.com,legrand-france,false
+https://www.linkedin.com/company/toyota,Toyota,712034040,http://www.toyota-global.com/,toyota-france,false
+https://www.linkedin.com/company/michelin,Michelin,855200507,http://www.michelin.com,michelin,true
+https://www.linkedin.com/company/totalenergies,Total Energy,442395448,http://www.totalenergies.com,direct-energie,false
+https://www.linkedin.com/company/ge,General Electric,438813685,http://www.ge.com,ge,true

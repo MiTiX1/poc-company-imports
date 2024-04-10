@@ -1,0 +1,4 @@
+linkedin_url,input_name,siren,website,linkedin_id_found,success
+https://www.linkedin.com/company/sncf,SNCF,552049447,http://www.sncf.com,sncf-immobilier,false
+https://www.linkedin.com/company/alsapan,Alsapan,392213146,http://www.alsapan.com,alsapan-industrie,false
+https://www.linkedin.com/company/eiffage-metal,Eiffage Metal,333916385,https://www.eiffagemetal.com/,eiffage-metal,true

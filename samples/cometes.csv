@@ -1,0 +1,86 @@
+_id,name,siren,sectors[0],sectors[1],sectors[2],linkedinAccount[0],blog[0],homepage[0]
+62542534b64e02631d19ec77,Thales,552059024,aeronautic,future industrie,,thales,https://www.thalesgroup.com/en,http://www.thalesgroup.com/
+62542534b64e02631d19ec7b,Arianespace,318516457,aeronautic,,,arianespace_2,https://www.arianespace.com/,http://www.arianespace.com
+62542534b64e02631d19ec74,Stelia Aerospace,330316381,aeronautic,,,stelia-aerospace,https://www.stelia-aerospace.com/en/,https://www.stelia-aerospace.com/en/
+62542534b64e02631d19ec86,PSA Group,542065479,automotive,,,groupepsa,,http://www.groupe-psa.com/
+62542534b64e02631d19ec8b,Peugeot,552144503,automotive,,,automobiles-peugeot,,http://www.peugeot.com
+62542534b64e02631d19ec9a,Bosch Rexroth,440233815,electronic,,,bosch-rexroth,,http://www.boschrexroth.com
+62542534b64e02631d19ec93,Navtis,340677921,naval,,,groupe-navtis,,http://www.navtis.fr/
+62542534b64e02631d19ec99,Océa,340889476,naval,,,ocea-construction-navale,,https://www.ocea.fr
+62542534b64e02631d19ec73,Segula technologies,330581083,aeronautic,,,segula-technologies,,https://www.segulatechnologies.com
+62542534b64e02631d19ec75,Latécoère,572050169,aeronautic,,,latecoere,,https://www.latecoere.aero
+62542534b64e02631d19ec7d,Lactalis,331142554,food,,,lactalis,,https://www.lactalis.com/
+62542534b64e02631d19ec7f,Nestle,542014428,food,,,nestle-s-a-,,http://www.nestle.com
+62542534b64e02631d19ec7c,Sodebo,547350249,food,,,sodebo,,https://www.sodebo.com/espace-recrutement
+62542534b64e02631d19ec80,Herta,311043194,food,,,herta-sas,https://www.herta.fr/,https://www.herta.fr/
+62542534b64e02631d19ec76,Safran,562082909,aeronautic,future industrie,,safran,,http://www.safran-group.com/
+62542534b64e02631d19ec7e,Danone,552032534,food,,,danone,,http://www.danone.com
+62542534b64e02631d19ec83,Bledina,301374922,food,,,bledina,,http://www.bledina.com/
+62542534b64e02631d19ec89,Iveco,419683818,automotive,,,iveco-group,,http://www.ivecogroup.com
+62542534b64e02631d19ec87,Valeo,552030967,automotive,future industrie,,valeo,,http://www.valeo.com
+62542534b64e02631d19ec94,Sillinger,431546233,naval,,,sillinger,,http://www.sillinger.com
+62542534b64e02631d19ec71,Airbus,383474814,aeronautic,,,airbusgroup,,http://www.airbus.com
+62542534b64e02631d19ec82,Terrena,429707292,food,,,terrena,,http://www.terrena.fr
+62542534b64e02631d19ec8c,Renault,780129987,automotive,,,renaultgroup,,https://www.renaultgroup.com/en/
+62542534b64e02631d19ec9d,Legrand,758501001,electronic,new energy systems,,legrand,,https://www.legrandgroup.com
+62542534b64e02631d19ec8d,Toyota,712034040,automotive,,,toyota,,http://www.toyota-global.com/
+62542534b64e02631d19ec90,Michelin,855200507,automotive,,,michelin,,http://www.michelin.com
+62542534b64e02631d19eca7,Total Energy,442395448,new energy systems,mine & metallurgy,future industrie,totalenergies,,http://www.totalenergies.com
+62542534b64e02631d19eca9,General Electric,438813685,new energy systems,railway,,ge,,http://www.ge.com
+62542534b64e02631d19eca5,EDF,552081317,nuclear,new energy systems,,edf,,https://www.edf.fr/edf-recrute
+62542534b64e02631d19ec98,Kership,793430240,naval,,,kership,,http://www.kership.com
+62542534b64e02631d19ece0,Eiffage Energie Systemes,420540643,building,,,eiffageenergiesystemes,,https://www.eiffageenergiesystemes.com/carrieres/nos-offres?utm_source=linkedin&utm_medium=social_media&utm_campaign=ees_profil_linkedin_offre&utm_content=page_rh&utm_term=presentation
+62542534b64e02631d19ecf0,Paprec,333050284,waste,,,paprec,,https://www.paprec.com
+62542534b64e02631d19ecbe,OVH,424761419,digital,,,ovhgroup,,https://www.ovhcloud.com/en/
+62542534b64e02631d19eccc,Boiron,967504697,health & pharma,,,laboratoire-boiron,,http://www.boiron.fr/
+62542534b64e02631d19ece4,Saint Gobain,542039532,building,future industrie,,saint-gobain,,http://www.saint-gobain.com
+62542534b64e02631d19eccd,Lalliard,605720465,wood,,,lalliard-bois-et-derives,,http://www.lalliard.fr
+62542534b64e02631d19ecd3,Sokoa,712720374,wood,,,sokoa,,http://www.sokoa.com
+62542534b64e02631d19ece5,Arcelor Mittal,562094425,mine & metallurgy,,,arcelormittal,,http://corporate.arcelormittal.com
+62542534b64e02631d19ecef,Imagreen,522761139,waste,,,imagreen,,http://www.imagreen.fr
+62542534b64e02631d19ecd0,Bio Habitat,511239915,wood,,,bio-habitat,,https://www.mobilhome-biohabitat.com
+62542534b64e02631d19ecdb,Hermès,572076396,fashion & luxury,,,hermes-group,,http://www.hermes.com/employeur
+627a02e3909a01a1bfa7cd23,DASSAULT AVIATION,712042456,,,,dassault-aviation,,https://www.dassault-aviation.com
+62542534b64e02631d19ecac,ENEDIS,444608442,new energy systems,,,enedis,,https://www.enedis.fr/
+62542534b64e02631d19eca3,Asteelflash,421842188,electronic,,,asteelflash,,http://www.asteelflash.com
+62542534b64e02631d19ec9b,Lacroix,855802815,electronic,,,lacroix-group,,http://www.lacroix-group.com
+62542534b64e02631d19ec95,Fountaine Pajot,307309898,naval,,,fountaine-pajot,,http://www.fountaine-pajot.com
+62542534b64e02631d19ec96,Naval Group,441133808,naval,,,naval-group,,http://www.naval-group.com
+62542534b64e02631d19ec97,Néopolia,452124449,naval,,,neopolia-officiel,,https://www.neopolia.fr
+62542534b64e02631d19eca2,ASM Assembly,484145545,electronic,,,asm-assembly-systems,,https://smt.asmpt.com/
+62542534b64e02631d19ece6,Eramet,632045381,mine & metallurgy,,,eramet,,http://www.eramet.com
+62542534b64e02631d19ecd5,Sitco Groupe,515184240,wood,,,sitco-groupe,,http://www.sitco.fr
+62542534b64e02631d19ecb9,Biomerieux,673620399,chemistry & materials,,,biomerieux,,https://www.biomerieux.com
+62542534b64e02631d19ecd7,LVMH,775670417,fashion & luxury,,,lvmh,,http://www.lvmh.com
+62542534b64e02631d19ece9,Nicollin,477485635,mine & metallurgy,,,groupe-nicollin,,http://www.groupenicollin.com/
+62542534b64e02631d19ecb4,Hutchinson,314397696,chemistry & materials,,,hutchinson,,https://www.hutchinson.com
+62542534b64e02631d19ecd8,Longchamp,737050187,fashion & luxury,,,longchamp,,http://www.longchamp.com
+62542534b64e02631d19ece3,Spie,532712825,building,,,spie_2,,http://www.spie.com
+62542534b64e02631d19ecf2,Arkema,319632790,future industrie,,,arkema,,http://www.arkema.com
+62542534b64e02631d19eca6,Engie,542107651,new energy systems,,,endel-engie,,http://www.endel-engie.fr
+62542534b64e02631d19ec9e,ST Microelectronics,341459386,electronic,,,stmicroelectronics,,https://www.st.com?src=linkedin
+62542534b64e02631d19ecb7,Axens,599815073,chemistry & materials,,,axens,,http://www.axens.net
+62542534b64e02631d19ecf4,Spie Nucléaire,662049287,nuclear,,,spie-nucleaire,,http://www.spie.com/fr/spie-nucléaire
+62542534b64e02631d19ecde,Haulotte,332822485,building,,,haulotte-group,,http://www.haulotte.com
+62542534b64e02631d19ecf6,Corys,413851924,nuclear,,,corys,,https://www.corys.com
+62542534b64e02631d19ecad,Alstom,389058447,railway,future industrie,,alstom,,http://www.alstom.com
+62542534b64e02631d19ecd6,L'Oreal,632012100,fashion & luxury,,,loréal,,http://www.loreal.com
+62542534b64e02631d19ecdd,Mecalac,422483214,building,,,mecalac,,https://www.mecalac.com/
+62542534b64e02631d19ecf5,Orano,305207169,nuclear,,,areva,,http://www.orano.group
+62542534b64e02631d19ecd1,Groupe SIAT,675880041,wood,,,siat-braun,,http://www.groupesiat.fr
+62542534b64e02631d19ecda,Lacoste,307258301,fashion & luxury,,,lacoste,,https://corporate.lacoste.com/
+62542534b64e02631d19ece1,Vinci Energie,391635844,building,,,vinci-energies,,http://www.vinci-energies.com
+62542534b64e02631d19ec92,Chantiers de l'Atlantique,439067612,naval,,,chantiers-atlantique,,http://chantiers-atlantique.com
+62542534b64e02631d19ecab,Naval Energies,790256671,new energy systems,,,naval-energies,,https://www.naval-energies.com/fr/
+62542534b64e02631d19eca8,Socomec,548500149,new energy systems,,,socomec,,http://www.socomec.com
+62542534b64e02631d19ecb2,Air Liquide,314119504,chemistry & materials,,,airliquide,,http://www.airliquide.com
+62542534b64e02631d19ece2,Bouygues,433900834,building,,,bouygues-construction,,http://www.bouygues-construction.com/
+62542534b64e02631d19ecf3,Runeo,817502453,water,,,runeo,,https://www.runeo.re/
+62542534b64e02631d19ece7,Veolia,403210032,mine & metallurgy,waste,,veolia-environnement,,http://www.veolia.com/en/
+62542534b64e02631d19ecc8,Sanofi,395030844,health & pharma,,,sanofi,,http://www.sanofi.com
+62542534b64e02631d19ecdf,Manitou Group,857802508,building,,,manitougroup,,http://www.manitou-group.com
+62542534b64e02631d19ecea,Suez,775690035,mine & metallurgy,water,,suez,,http://www.suez.com
+62542534b64e02631d19ecf1,Amorce,751372608,waste,,,association-amorce,,http://www.amorce.asso.fr
+62542534b64e02631d19ecaf,SNCF,552049447,railway,,,sncf,,http://www.sncf.com
+62542534b64e02631d19eccf,Alsapan,392213146,wood,,,alsapan,,http://www.alsapan.com
+62542534b64e02631d19ece8,Eiffage Metal,333916385,mine & metallurgy,,,eiffage-metal,,https://www.eiffagemetal.com/
