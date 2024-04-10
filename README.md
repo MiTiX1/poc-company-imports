@@ -206,9 +206,9 @@ F -->|no| B
 F -->|yes| G[Societe info]
 G --> B
 B -->|yes| C[The companies API /:domain]
-B -->|no| D[The comapnies API /by-name]
+B -->|no| D[The companies API /by-name]
+D --> E
 C --> E[scrape the website]
 E --> H[compare the linkedins]
-D --> H
 H --> I[return the best one]
 ```
